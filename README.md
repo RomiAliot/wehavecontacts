@@ -34,7 +34,8 @@ Wordpress installation in your local machine or remote service
 ## Usage 🖇
 
 * In the back-end of your site after installing the plugin you will be able to add edit and delete all contacts. You can find the manage panel inside WHC contacts tool in the dashboard of your wordpress installation. 
-* You can display a table of contacts in the front-end of your site using this shortcode **######    [whcdisplay]**
+* You can display a table of contacts in the front-end of your site using this shortcode
+  **###### [whcdisplay]**
 
 ## Built With 💕
 
@@ -49,7 +50,7 @@ Wordpress installation in your local machine or remote service
 Romina Aliotta  [LinkedIn-english](https://www.linkedin.com/in/romina-aliotta/?locale=en_US)
                 [LinkedIn-español](https://www.linkedin.com/in/romina-aliotta/?locale=es_ES)
 
-whit ❣️
+with ❣️
     
 
 
