@@ -10,16 +10,16 @@ Will be able to save this information about each contact =
 * Instagram link
 * LinkedIn link
 
-##Set it up 🚀
+## Set it up 🚀
 
-*You can download the .zip file inside bundle/wehavecontact.zip in the repository and then install it your wordpress like any other plugin. 
-*You can clone the repository using HTTPS or SSH inside your wordpress installation 
+* You can download the .zip file inside bundle/wehavecontact.zip in the repository and then install it your wordpress like any other plugin. 
+* You can clone the repository using HTTPS or SSH inside your wordpress installation 
 
-###Requirements
+### Requirements 📝
 
 Wordpress installation in your local machine or remote service
 
-###Installation
+### Installation 📔
 
 * First choice =
 1. Set uo wordpress in your local machine or remote service 
@@ -29,15 +29,14 @@ Wordpress installation in your local machine or remote service
 1. Set uo wordpress in your local machine or remote service 
 2. Clone git repository inside wordpress plugin folder using =
    * https://github.com/RomiAliot/wehavecontacts.git 
-   or,
    * git@github.com:RomiAliot/wehavecontacts.git
 
-##Usage
+## Usage 🖇
 
-*In the back-end of your site after installing the plugin you will be able to add edit and delete all contacts. You can find the manage panel inside WHC contacts tool in the dashboard of your wordpress installation. 
-* You can display a table of contacts in the front-end of your site using this shortcode **######[whcdisplay]**
+* In the back-end of your site after installing the plugin you will be able to add edit and delete all contacts. You can find the manage panel inside WHC contacts tool in the dashboard of your wordpress installation. 
+* You can display a table of contacts in the front-end of your site using this shortcode **######    [whcdisplay]**
 
-##Built With
+## Built With 💕
 
 * Node.js
 * PHP 
@@ -45,10 +44,12 @@ Wordpress installation in your local machine or remote service
 * Gulp
 * wppb.me **thanks you** WPPB for provide the source that helped me built this plugin
 
-##Author
+## Author 🙋🏻
 
 Romina Aliotta  [LinkedIn-english](https://www.linkedin.com/in/romina-aliotta/?locale=en_US)
                 [LinkedIn-español](https://www.linkedin.com/in/romina-aliotta/?locale=es_ES)
+
+whit ❣️
     
 
 
