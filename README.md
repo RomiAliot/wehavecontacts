@@ -22,11 +22,11 @@ Wordpress installation in your local machine or remote service
 ### Installation 📔
 
 * First choice =
-1. Set uo wordpress in your local machine or remote service 
+1. Set up wordpress in your local machine or remote service 
 2. Go to plugins - add new - and upload the .zip file you can find inside bundle/wehavecontact.zip
 
 * Second choice =
-1. Set uo wordpress in your local machine or remote service 
+1. Set up wordpress in your local machine or remote service 
 2. Clone git repository inside wordpress plugin folder using =
    * https://github.com/RomiAliot/wehavecontacts.git 
    * git@github.com:RomiAliot/wehavecontacts.git
