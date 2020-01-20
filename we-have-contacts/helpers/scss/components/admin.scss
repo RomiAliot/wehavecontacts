@@ -1,0 +1,120 @@
+$colour-1st: #b667a9;
+.entry-header{
+   padding-bottom: 30px;;
+}
+
+p{
+   font-family: 'Open Sans', sans-serif;
+  
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+}
+
+
+.add-contact {
+   margin-bottom: 30px;
+   .btn-add-contact{
+      padding: 10px 10px 10px 10px;
+      text-align: center;
+    .material-icons.add-plus-icon{
+       font-size: 70px;
+       color: #b667a9;
+      
+     }
+
+     p{
+         text-align: center;
+         font-size: 1.5em;
+         text-transform: capitalize;
+      
+     }
+   }
+}
+.show-shortcode{
+
+   p{
+      text-align: center;
+      font-size: 1.3em;
+   
+   }
+   h5{
+     text-align: center !important;
+     font-size: 1.4em;
+     color: #b667a9;
+   }
+}
+
+#modal1{
+    .modal-footer{
+      .insert-add-contact{
+         background-color: $colour-1st;
+         color: #fff;
+
+         &:hover{
+            background-color: #000;
+         }
+      }
+    }
+}
+
+
+   
+.contact-row{
+
+               
+               .save-btn{
+                  display: none ;
+               }
+               
+               .save-btn-active{
+                  display: table-cell;
+               }
+               
+            }
+   
+
+.contacts-list {
+   .edit-field  {
+      padding: 10px 25px 10px 25px;
+    background-color: $colour-1st;
+    margin-right: 2px;
+    border-radius: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+   }
+   .delete-field {
+      padding: 10px 25px 10px 25px;
+      background-color: #ff242ded;
+      margin-right: 2px;
+      border-radius: 50px;
+      color: #fff;
+      text-transform: uppercase;
+      cursor: pointer;
+   }
+   .save-btn {
+   padding: 10px 25px 10px 25px;
+    background-color: #408c54ed;
+    margin-right: 2px;
+    border-radius: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+
+   }
+}          
+
+.swal2-styled.swal2-confirm{
+   background-color: $colour-1st !important;
+}
+
+#entry-contacts {
+
+   p{
+      font-size: 1.5em;
+      margin: 0;
+   }
+}
